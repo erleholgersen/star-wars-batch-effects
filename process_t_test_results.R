@@ -1,5 +1,5 @@
 ### DESCRIPTION ###############################################################
-# Visualize results from t-testss
+# Visualize results from t-tests
 #
 
 ### LIBRARIES #################################################################
@@ -91,8 +91,8 @@ dev.off();
 options(bitmapType = 'cairo');
 png(
     'plots/vignetting_effect.png',
-    width = 8,
-    height = 1.2,
+    width = 10,
+    height = 1.6,
     units = 'in',
     res = 500
     );
