@@ -1,6 +1,6 @@
 # Correcting for Batch Effects in the Star Wars Trilogies
 
-Have you ever wanted to treat Star Wars like a microarray experiment? I have, and one day I decided to go through with it. For more details, see [my blogpost](https://erle.io/blog/adjusting-for-batch-effects-in-the-star-wars-trilogies/).
+Have you ever wanted to treat Star Wars like a microarray experiment? I have, and one day I decided to go through with it. For more details, see [my blogpost](https://erle.bio/blog/adjusting-for-batch-effects-in-the-star-wars-trilogies/).
 
 ![Before after](plots/originals_exemplars.png)
 
